@@ -44,7 +44,6 @@ a {
 .button {
     color: white;
     background-color: dodgerblue;
-    padding: px;
     border-style: none;
     height: 30px;
     border-radius: 5px;
@@ -106,6 +105,9 @@ a {
 /* Страничка популярного */
 
 .cover {
+    margin-bottom: 20px;
+    margin-right: 20px;
+
 
 }
 
