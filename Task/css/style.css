@@ -47,6 +47,7 @@ a {
     border-style: none;
     height: 30px;
     border-radius: 5px;
+    margin-bottom: 10px;
 
 
 
@@ -113,11 +114,20 @@ a {
 
 /* Страничка подписки  */
 
-.box-green {
+.box-green {background-color: #E1F5EA;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    margin-bottom: 10px;
+    font-family: "Yu Gothic UI Light";
 
 }
 
-.box-purple {
+.box-purple {background-color:
+#EBDCF9;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    margin-bottom: 10px;
+    font-family: "Yu Gothic UI Light";
 
 }
 
